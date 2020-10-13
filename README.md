@@ -31,7 +31,10 @@
     
 * 成果: 
   * 二維圖:
+  
   ![Alt text](photo/圖片2.png)
+  
   * 數值比較:
+  
   ![Alt text](photo/圖片5.PNG)
   
