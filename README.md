@@ -22,6 +22,7 @@
   * 輸入:
     > X, y = make_blobs(n_samples=10000, n_features=3, centers=[[3, 3, 3], [0, 0, 0], [1, 1, 1], [2, 2, 2]], cluster_std=[0.2, 0.1, 0.2, 0.2], random_state=9) 
     如下圖
+    
     ![Alt text](photo/圖片1.png)
     
   * PCA model:
